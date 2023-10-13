@@ -1,9 +1,14 @@
 # SUN-RGBD-IS
 A dataset converted from SUN-RGBD into COCO-style instance segmentation format
+
 Train : 2838 images
+
 Val : 946 images
+
 Classes : 18
+
 Resolution : 730 × 530
+
 
 ## Data preparation
 https://drive.google.com/drive/folders/1R0MZIZbjH17hV4wWoI_D2mJqvheEG-5M?usp=sharing
