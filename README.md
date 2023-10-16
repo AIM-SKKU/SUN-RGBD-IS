@@ -1,7 +1,7 @@
 # SUN-RGBD-IS
 A dataset converted from SUN-RGBD into COCO-style instance segmentation format
 
-We have exclusively converted the data acquired from SUN RGB-D using Kinect v2
+We have exclusively converted the data acquired from SUN-RGBD using Kinect v2
 
 ![image](./img/img1.jpg)
 
