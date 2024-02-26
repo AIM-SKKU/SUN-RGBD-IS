@@ -1,7 +1,6 @@
 # SUN-RGBD-IS
 A dataset converted from SUN-RGBD into COCO-style instance segmentation format
 
-We have exclusively converted the data acquired from SUN-RGBD using Kinect v2
 
 ![image](./img/img1.jpg)
 
@@ -14,6 +13,7 @@ Size    : 730 × 530
 Sensor  : Kinect V1, Kinect V2, Intel Realsense, Asus Xtion
 ```
 
+We have exclusively converted the data acquired from SUN-RGBD using Kinect v2
 ```
 SUN-RGBD-IS-kv2
 Train   : 2838 images
