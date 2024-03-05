@@ -24,9 +24,9 @@ Sensor  : Kinect V2
 ```
 ## Data preparation
 
-SUN-RGBD-IS : https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdFEycWtVUmI4dlFya3pHLVJLMnJ5SWZqTzBmP2U9dWduZllU/root/content
+SUN-RGBD-IS : https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdFEycWtVUmI4dlFybU5aUmN3enVISU5McDRFP2U9WTV0UjFQ/root/content
 
-SUN-RGBD-IS-kv2 : https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdFEycWtVUmI4dlFya3NOdFFXRDN4Z3lKS0dLP2U9b1I4eUVj/root/content
+SUN-RGBD-IS-kv2 : https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdFEycWtVUmI4dlFybVR3bC0yYUNpVHIySXc4P2U9ZFI2RzBw/root/content
 
 ```
 SUNRGBD/
