@@ -10,7 +10,7 @@ For detailed statistics about our dataset, please refer to the following paper:\
 SUN-RGBD-IS
 Train   : 5070 images
 Val     : 4872 images
-Classes : 18
+Classes : 17
 Size    : 730 × 530
 Sensor  : Kinect V1, Kinect V2, Intel Realsense, Asus Xtion
 ```
@@ -20,7 +20,7 @@ We have exclusively converted the data acquired from SUN-RGBD using Kinect v2
 SUN-RGBD-IS-kv2
 Train   : 2838 images
 Val     : 946 images
-Classes : 18
+Classes : 17
 Size    : 730 × 530
 Sensor  : Kinect V2
 ```
