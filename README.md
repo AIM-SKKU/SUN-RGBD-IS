@@ -1,5 +1,7 @@
 # SUN-RGBD-IS
-A dataset converted from SUN-RGBD into COCO-style instance segmentation format
+A dataset converted from SUN-RGBD into COCO-style instance segmentation format\
+For detailed statistics about our dataset, please refer to the following paper:\
+**[IAM: Enhancing RGB-D Instance Segmentation with New Benchmarks](https://arxiv.org/abs/2501.01685)** 
 
 
 ![image](./img/img1.jpg)
